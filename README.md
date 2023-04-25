@@ -1,11 +1,11 @@
 # J-SSH-app
 
-###Still in progress :P
+### Still in progress :P
 
 
 Application to connect to SSH. It reads data from Excel file, stored in way like this:
 
-#Example Excel FILE
+# Example Excel FILE
 
 |   Hostname    |   IP          |
 | ------------- |:-------------:|
@@ -13,7 +13,7 @@ Application to connect to SSH. It reads data from Excel file, stored in way like
 | platform2     | 192.168.08    |
 | platform3     | 192.211.212.1 |
 
-#HOW IT WORKS
+# HOW IT WORKS
 
 The program create UI, with 3 columns:
  - Hostname
